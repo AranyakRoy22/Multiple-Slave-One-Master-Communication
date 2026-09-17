@@ -274,15 +274,3 @@ Each slave sends one line over UART at 9600 baud, 8N1:
 ```
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Aranyak Roy**
-
-Contributions, issues and feature requests are welcome.
